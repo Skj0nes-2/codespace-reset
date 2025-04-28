@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  user-select: none;
+  font-family: 'Times New Roman';
+  background-color: black;
+  color: white;
+}
+#countdown {
+  margin: 0;
+  padding: 35vh 0;
+  text-align: center;
+  font-size: 7em;
+  display: block;
+}
